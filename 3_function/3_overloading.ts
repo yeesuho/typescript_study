@@ -7,7 +7,7 @@
  * 2) 세개를 받는 함수
  */
 
-function stringOrString(suhos:string): string;
+function stringOrString(suhos:string): string; // 자바스크립트엔 제공하지 않기 때문에 컴파일되면 사라짐
 function stringOrString(suho1: string, suho2: string, member3: string): string; //하나 또는 3개만 받을 수 있도록 강제할 수 있게됨
 // 하나의 구현체만 갖고 그 구현체와 매개변수, 파라미터는 달라도 됨
 
