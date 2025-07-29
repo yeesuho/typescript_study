@@ -1,5 +1,5 @@
 /**
- * Statement and Expression
+ * Statement and Expression (문장과 표현식)
  */
 
 // statement(문장)
