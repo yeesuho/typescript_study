@@ -14,6 +14,7 @@ class Dog {
 }
 
 let kami = new Dog('까미'); // Dog라는 타입을 생성하지 않았지만 class 자체가 타입이 됨
+console.log(kami);
 console.log(kami.bark());
 
 // kami = '까미'; // Dog 타입이기 때문에 할당할 수 없음
